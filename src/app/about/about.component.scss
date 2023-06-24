@@ -1,0 +1,23 @@
+.container-fluid {
+    height: 100vh;
+    background-color: rgb(235, 227, 217);
+}
+.content {
+    padding-top: 5%;
+}
+.about-logo{
+    width: 100%;
+}
+.btn {
+    width: 16%;
+    padding: 0.3rem .7rem;
+    background-image: linear-gradient(to left, #f55047, #fc8459);
+    padding: 0.6rem .5rem;
+    border-radius: 6px;
+    border:none;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    color: #fff;
+    margin: 0px 0 0 120px;
+}

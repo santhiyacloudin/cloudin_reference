@@ -1,0 +1,30 @@
+.navbar-logo {
+    transform: rotate(-90deg);
+   width: 10%;
+   margin-left: 2%;
+   z-index: 1;
+}
+.card {
+    margin-top: 1%;
+    margin-left: 5%;
+    padding: 20px;
+    border-color: #000;
+}
+.btn {
+    border-radius: 10px;
+    height: auto;
+    color:#000;
+    border-color: #000;
+    background-color: transparent;
+}
+.heading {
+    margin-left: 5%;
+    border-bottom: 2px solid red;
+    width: 8%;
+}
+.heading2{
+    width:20%;
+    margin-left: 5%;
+    border-bottom: 2px solid red;
+    width: 10%;
+}

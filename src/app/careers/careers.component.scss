@@ -1,0 +1,40 @@
+.navbar-logo {
+    transform: rotate(-90deg);
+   width: 10%;
+   margin-left: 2%;
+   z-index: 1;
+}
+.home-logo {
+    width: 100%;
+}
+.data {
+    color:#fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h2 {
+    text-align: center;
+}
+.highlight {
+    font-size: 50px;
+    width: 120%;
+    text-align: center;
+}
+.btn {
+    position: absolute;
+    top: 38%;
+    left: 9%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border-radius: 25px;
+    width: 15%;
+    height: auto;
+    color:#fff;
+    border-color: #000;
+    background-color: #000;
+}
+.career-logo {
+    width: 80%;
+}
